@@ -1,0 +1,11 @@
+﻿{
+  "name": "northstar-retail-pos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Retail POS starter with a MySQL database and Vercel API functions",
+  "engines": { "node": ">=20" },
+  "dependencies": { "mysql2": "^3.14.1" }
+}
+
+
